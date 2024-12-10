@@ -1,6 +1,6 @@
 ## Hi there 👋
-⚡I am an IT learner.
-🌱 I’m currently learning ... AWS Badges - https://www.credly.com/users/yusi-huang.12ec07f7
+- ⚡ I am an IT learner... 
+- 🌱 AWS Badges - https://www.credly.com/users/yusi-huang.12ec07f7
 
 
 <!--
