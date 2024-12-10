@@ -1,4 +1,7 @@
 ## Hi there 👋
+⚡I am an IT learner.
+🌱 I’m currently learning ... AWS Badges - https://www.credly.com/users/yusi-huang.12ec07f7
+
 
 <!--
 **salina2232/salina2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
