@@ -4,7 +4,11 @@
 - 🌱 AWS Badges - https://www.credly.com/users/hys.12ec07f7
 - ✨ Leetcode's Best Score - Top 16.1%
 
+<h3>
+Technical valve
+</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **salina2232/salina2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
