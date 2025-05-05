@@ -7,7 +7,8 @@
 <h3>
 Technical valve
 </h3>
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,java,git,aws,docker,powershell,php,postman,py,visualstudio,ubuntu,sqlite&perline=3)](https://skillicons.dev)
+
+(https://skillicons.dev/icons?i=html,css,js,mysql,java,git,aws,docker,powershell,php,postman,py,visualstudio,ubuntu,sqlite&perline=7)](https://skillicons.dev)
  
 
 <!--
