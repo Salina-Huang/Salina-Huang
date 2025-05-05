@@ -9,8 +9,8 @@ Technical valve
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      </a>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 <!--
 **salina2232/salina2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
