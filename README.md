@@ -10,13 +10,13 @@ Technical valve
 </h3>
 
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8" width="300"/>
+<a href="https://skillicons.dev" style="margin-right: 50px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8" width="300" />
 </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salina-Huang&layout=compact&theme=transparent&hide_border=true)
-<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salina-Huang&layout=compact&theme=transparent&hide_border=true" width="400">
+
 **salina2232/salina2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
