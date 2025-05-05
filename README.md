@@ -1,6 +1,5 @@
 ## Hi there 👋
 - ⚡ I am an IT learner...
-- 🔭 Language： HTML(CSS), PHP, Javascript, java, Python, SQL， Node.js
 - 🌱 AWS Badges - https://www.credly.com/users/hys.12ec07f7
 - ✨ Leetcode's Best Score - Top 16.1%
 
