@@ -9,7 +9,7 @@ Technical valve
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,git,aws,docker,powershell,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,git,aws,docker,powershell,php,postman,py,visualstudio" />
   </a>
 </p>
 <!--
