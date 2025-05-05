@@ -4,12 +4,14 @@
 - 🌱 AWS Badges - https://www.credly.com/users/hys.12ec07f7
 - ✨ Leetcode's Best Score - Top 16.1%
 
-<h3>
+
+<h5>
 Technical valve
-</h3>
+</h5>
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salina-Huang&layout=compact&theme=transparent&hide_border=true)
 <!--
 **salina2232/salina2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
