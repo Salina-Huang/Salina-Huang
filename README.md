@@ -10,11 +10,10 @@ Technical valve
 </h3>
 
 
-<p align="left">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8" width="300" />
   </a>
-</p>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salina-Huang&layout=compact&theme=transparent&hide_border=true" width="400">
