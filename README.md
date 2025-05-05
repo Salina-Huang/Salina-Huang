@@ -10,8 +10,10 @@ Technical valve
 </h3>
 
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8" width="300"/>
+</a>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salina-Huang&layout=compact&theme=transparent&hide_border=true)
 <!--
