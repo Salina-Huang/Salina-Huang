@@ -5,9 +5,13 @@
 - ✨ Leetcode's Best Score - Top 16.1%
 
 
-<h5>
+<h3>
 Technical valve
-</h5>
+</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8" width="600"/>
+</a>
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,powershell,php,postman,py,vscode,ubuntu,sqlite,npm&perline=8)](https://skillicons.dev)
 
