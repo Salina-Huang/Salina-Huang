@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,java,git,aws,docker,cs,dotnet,powershell,php,postman,py,vscode,visualstudio,ubuntu,sqlite,npm&perline=8" width="350" />
  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salina-Huang&layout=compact&theme=transparent&hide_border=true" width="300">
+
 
 
 
